@@ -148,9 +148,10 @@ a.special-link:hover {
     list-style: none;
     margin: 10px 0;
 }
+
 .tab-contents ul li span{
     color: #b54769; 
-    font-size: 14px;
+    font-size: 18px;
 }
 .tab-contents{
     display: none;
@@ -479,4 +480,25 @@ nav .fa-solid{
     margin-top: -40px;
     display: block;
 }
+
+.date {
+    display: block;
+    font-weight: bold; /* Emphasize the date */
+    color: #151515; /* Darker color for better contrast */
+    margin-bottom: 8px; /* Space below the date */
+    font-size: 18px; /* Increased font size for the date */
+}
+
+.institution {
+    font-size: 17px; /* Slightly larger font size for the institution name */
+    font-weight: 500; /* Medium bold weight */
+    margin-bottom: 8px; /* Space below the institution name */
+    color: #a9a8a8; /* Medium gray color */
+}
+
+.description {
+    font-size: 16px; /* Slightly smaller font size for the description */
+    color: #a9a8a8; /* Light gray color for description */
+}
+
 
