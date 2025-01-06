@@ -534,5 +534,8 @@ nav .fa-solid{
     font-size: 16px; /* Slightly smaller font size for the description */
     color: #a9a8a8; /* Light gray color for description */
 }
+.spacer {
+    height: 70px; /* Ajustez cette valeur selon vos besoins */
+}
 
 
